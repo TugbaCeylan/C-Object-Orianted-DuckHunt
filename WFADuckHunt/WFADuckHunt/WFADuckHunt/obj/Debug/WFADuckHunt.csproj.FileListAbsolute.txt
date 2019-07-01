@@ -1,0 +1,36 @@
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe.config
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.pdb
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csprojResolveAssemblyReference.cache
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Form1.resources
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Properties.Resources.resources
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csproj.GenerateResource.Cache
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.exe
+C:\Users\alp1\Desktop\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.pdb
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe.config
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.exe
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.pdb
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.pdb
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csprojResolveAssemblyReference.cache
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Form1.resources
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Properties.Resources.resources
+C:\Users\alp1\Desktop\My Project\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csproj.GenerateResource.Cache
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe.config
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.exe
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.pdb
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.pdb
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csprojResolveAssemblyReference.cache
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Form1.resources
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Properties.Resources.resources
+C:\Users\Tuğba\Desktop\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csproj.GenerateResource.Cache
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe.config
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.exe
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\bin\Debug\WFADuckHunt.pdb
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csprojResolveAssemblyReference.cache
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Form1.resources
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.Properties.Resources.resources
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.csproj.GenerateResource.Cache
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.exe
+C:\Users\Tuğba\Desktop\sandisc\WFADuckHunt\WFADuckHunt\WFADuckHunt\obj\Debug\WFADuckHunt.pdb
